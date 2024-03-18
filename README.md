@@ -12,3 +12,5 @@ Web Api Coding Test
 ** Defaults
   - id (station id): default "E7050" => error 404 if non-existent station id or no reading found
   - count(1-100): default 10 => error 400 if not satified
+
+Port 3000 - Kestrel
